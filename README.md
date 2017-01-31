@@ -1,0 +1,1 @@
+My first Holberton School project - part of Day Zero!
